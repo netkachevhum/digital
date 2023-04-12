@@ -2,4 +2,4 @@
 layout: default
 ---
 
-здесь можно краткое описание меня --- artistic statement (но тогда слева убрать всякие там описания). что я работаю с такими-то темами и исследую то-то. здесь же можно дать ссылку на cv. либо слева в списке моих проектов
+Ivan Netkachev (b. 1998, Orenburg) is a multimedia artist, publicist, and writer. He has bachelor’s and master’s degrees in theoretical linguistics from the Higher School of Economics and is studying at Rodchenko Art School (Moscow). He works with automatic generation of texts and images, video games, and video. 
