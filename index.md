@@ -2,7 +2,12 @@
 layout: default
 ---
 
+здесь можно краткое описание меня --- artistic statement (но тогда слева убрать всякие там описания). что я работаю с такими-то темами и исследую то-то. здесь же можно дать ссылку на cv. либо слева в списке моих проектов
+
 hi its my updated text xoxo
+
+
+
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
