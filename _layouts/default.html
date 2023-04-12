@@ -31,11 +31,11 @@
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
         {% endif %} -->
 
-          <ul>
+        
             {% for project in site.projects %}
-              <a href="{{ site.baseurl }}{{ project.url }}">{{ project.title }}</a>
+              <a href="{{ site.baseurl }}{{ project.url }}">{{ project.title }}</a> <br>
             {% endfor %}
-          </ul>
+
         <!-- {% if site.show_downloads %}
         <ul class="downloads">
           <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
