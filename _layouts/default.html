@@ -33,10 +33,11 @@
 
           <p>HI BRO</p>
 
-        {% for page in site.projects %}
-        <p>{{ project.url }}</p>
-        {% endfor %}
-
+          <ul>
+            {% for project in site.projects %}
+              <li><a href="{{ project.url }}">{{ project.title }}</a></li>
+            {% endfor %}
+          </ul>
         <!-- {% if site.show_downloads %}
         <ul class="downloads">
           <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
