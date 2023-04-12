@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Continue the Phrase or An Experiment in Non-Collaboration with the Machine
+title: continue the phrase 
 ---
 
-## {{ page.title }}
+**continue the phrase or an experiment in non-collaboration with the machine** 
 
 _yay_
 

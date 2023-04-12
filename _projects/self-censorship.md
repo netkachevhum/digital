@@ -3,7 +3,7 @@ layout: default
 title: archive of self-censorship
 ---
 
-## {{ page.title }}
+**{{ page.title }}**
 
 _yay_
 

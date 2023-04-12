@@ -3,7 +3,7 @@ layout: default
 title: stopping light
 ---
 
-## {{ page.title }}
+**{{ page.title }}**
 
 _yay_
 
