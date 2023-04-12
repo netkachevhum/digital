@@ -1,9 +1,8 @@
 ---
 layout: default
-title: archive of self-censorship
+title: war poetry automated
 ---
 
 ## {{ page.title }}
 
 _yay_
-

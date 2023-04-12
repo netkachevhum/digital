@@ -1,6 +1,6 @@
 ---
 layout: default
-title: archive of self-censorship
+title: stopping light
 ---
 
 ## {{ page.title }}
