@@ -20,8 +20,22 @@
 
 @font-face {
   font-family: 'Neue Haas';
+  font-weight: normal;
+  font-style: italic;
+  src: url('../fonts/Neue-Haas-Display-romanitalic/NeueHaasDisplay-RomanItalic.ttf') format('truetype');  
+}
+
+@font-face {
+  font-family: 'Neue Haas';
   font-weight: bold;
   src: url('../fonts/Neue-Haas-Display-bold/NeueHaasDisplay-Bold.ttf') format('truetype');  
+}
+
+@font-face {
+  font-family: 'Neue Haas';
+  font-weight: bold;
+  font-style: italic;
+  src: url('../fonts/Neue-Haas-Display-bolditalic/NeueHaasDisplay-BoldItalic.ttf') format('truetype');  
 }
 
 @font-face {
