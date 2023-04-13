@@ -1,9 +1,9 @@
 ---
 layout: default
-title: continue the phrase 
+title: complete the sentence 
 ---
 
-**continue the phrase**\
+**{{ page.title }}**\
 ...or an experiment in non-collaboration with the machine 
 
 2022\
