@@ -3,7 +3,8 @@ layout: default
 title: continue the phrase 
 ---
 
-**continue the phrase or an experiment in non-collaboration with the machine** 
+**continue the phrase**\
+...or an experiment in non-collaboration with the machine 
 
 2022\
 _a generated poem in two parts and sixty cards_\
