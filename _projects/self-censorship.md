@@ -5,5 +5,6 @@ title: archive of self-censorship
 
 **{{ page.title }}**
 
-_yay_
+2022
 
+![self-censorship1](self_censorship_1.png)
