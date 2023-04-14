@@ -13,7 +13,7 @@ This twitter bot was launched in 2018. It generated 3-line poems about war in Ru
 
 Some of the poems are provided below; I used Google Translate to translated them to English. 
 
-\*\*\*\
+**\*\*\*\
 socialism is a crime so that’s great\
 socialism is a crime so that’s great\
 crap war war
@@ -41,4 +41,4 @@ be — — —
 \*\*\*\
 for real native life of the Russian people\
 they pushed us where we were in Russia long before 1989\
-to kill — —
+to kill — —**
