@@ -34,9 +34,9 @@ this one spread out behind him - such cases of disobedience\
 — —_
 
 \*\*\*\
-_what else but the dirty hair\
-what else but the dirty hair\
-be — — —_
+_what else but the dirty hair_\
+_what else but the dirty hair_\
+_be_ — — —
 
 \*\*\*\
 _for real native life of the Russian people\
