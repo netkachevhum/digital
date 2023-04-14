@@ -5,8 +5,7 @@ title: archive of self-censorship
 
 **{{ page.title }}**
 
-2022
-
+2022\
 _telegram bot, telegram-mediated performance_\
 [@archiveofanger](https://t.me/archiveofanger)
 
