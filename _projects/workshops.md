@@ -7,7 +7,7 @@ title: workshops
 2022\
 _a workshop on generative poetry at [Garage Digital](https://garage.digital/en/a-workshop-on-generative-poetry-by-ivan-netkachev) (in Russian)_
 
-[slides](https://drive.google.com/file/d/17dywHc1PnZFspQAoFWVfzYTkP-YtSqAu/view?usp=sharing), [Google colab notebook](https://colab.research.google.com/drive/1ZY-A4DLhsKlwxS1MO8cBKYG8tgU-5GGP?usp=sharing)
+[slides](https://drive.google.com/file/d/17dywHc1PnZFspQAoFWVfzYTkP-YtSqAu/view?usp=sharing), [Google Colab notebook](https://colab.research.google.com/drive/1ZY-A4DLhsKlwxS1MO8cBKYG8tgU-5GGP?usp=sharing)
 
 **The interface: some critical strategies**\ 
 2023\
