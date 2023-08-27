@@ -4,7 +4,7 @@ description: the politics of poems and algorithms
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
-baseurl: /digital
+baseurl: "/"
 collections:
   projects:
     output: true
