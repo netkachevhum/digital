@@ -33,3 +33,10 @@ _published on knife.media_\
 
 This text was written as an initial response to the Russian invasion of Ukraine. My goal was to discuss the existing artisting strategies to represent and, unltimately, dismantle and delegitimize war altogether --- from Thomas Hirschhorn and Krzysztof Wodiczko to Harun Farocki and Valid Raad. 
 
+**what is bureaucratic language, and how to unlearn it**
+\
+2021\
+_published on knife.media_\
+[full text in Russian](https://knife.media/bureaucracy-language/)
+
+Following David Graeber, I suggest that bureaucratic language is essentially the language of violence, or a dead language. Then I discuss the artistic strategies aiming at liberating the imaginanation from the nonsense bureaucratic structures: Charles Reznikoff's poetic reappropriation of judical language, Kenneth Goldsmith's _uncreative writing_ and situationists' _détournement_. 
