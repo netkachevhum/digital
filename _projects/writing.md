@@ -17,7 +17,10 @@ _published on syg.ma_\
 
 A series of short autofictional and theoretical texts around the interface as a concept and as a metaphor: skin as a body-to-body interface, vague body borders and the language of imperialist Russian classics as a an interface. 
 
+**how schools control our bodies, and why they shouldn't be**
+\
+2023\
+_published on knife.media_\
+[full text in Russian](https://knife.media/unschooling/?fbclid=IwAR0gAuGIYCS1VlvUqcSqXTNnb5HfahTbsJiRG-yggM6C6z0axQMwMIee2iM)
 
-
-a lecutre at the digital humanities master's program at [ITMO](https://en.itmo.ru/) (in Russian)_\
-[slides](https://drive.google.com/file/d/1CF1sEkW7kZbLoKl1wuOADkX-q-mft-KT/view?usp=sharing)
+A survey on libertariean and anarchist critiques of school education (Freiere, Illich, Rancière), as well as the existing anarchist alternatives to it (Ferrer's _Escuela Moderna_, _Escuela Libre Paideia_).
