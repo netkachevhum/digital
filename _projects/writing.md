@@ -61,6 +61,6 @@ A discussion of grammatical peculiarities of poetic language from a formal (Chom
 \
 2020\
 _published on knife.media_\
-(full text in Russian)[https://knife.media/game-photo/]
+[full text in Russian](https://knife.media/game-photo/)
 
 An attempt to conceptualize in-game photography as a medium that is onthologically independent from optical media. Drawing inspiration from Timothy Morton's writing on object oriented onthologies, I suggest that in-game photo is a representation of digital existence characteristic of software and computers altogether --- very much independent of human mode of existence.
