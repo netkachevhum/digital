@@ -35,10 +35,10 @@ h3, h4, h5, h6 {
 }
 
 a {
-  color:red;
-  text-decoration:underline;
+  color:#000000;
+  text-decoration:none;
+  border-bottom: 1px solid red;
 }
-
 
 a:hover, a:focus {
   color:rgb(255, 0, 0);
