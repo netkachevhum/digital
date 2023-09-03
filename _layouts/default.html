@@ -31,16 +31,17 @@
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
         {% endif %} -->
 
-        <a href="https://netkachev.xyz/projects/writing.html">{{writings}}</a> <br>  
-        <a href="https://netkachev.xyz/projects/workshops.html">{{workshops}}</a> <br>
 
-        <br>
+      
           {% for project in site.projects %}
           {% unless project.title == "writing" or project.title == "workshops" %}
             <a href="{{ site.baseurl }}{{ project.url }}">{{ project.title }}</a> <br>
           {% endunless %}
           {% endfor %}
-            <br>
+          <br>
+          <a href="https://netkachev.xyz/projects/writing.html">writings</a> <br>  
+          <a href="https://netkachev.xyz/projects/workshops.html">workshops</a> <br>
+          <br>
 
         <!-- {% if site.show_downloads %}
         <ul class="downloads">
