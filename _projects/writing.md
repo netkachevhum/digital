@@ -9,7 +9,7 @@ title: writing
 _piblished in KIT newsletter_\
 [full text in Russian](https://us5.campaign-archive.com/?u=4ea5740c1fe71d71fea4212ee&id=1a08ade0de&utm_source=public&utm_medium=sharing&utm_campaign=skynet&fbclid=IwAR3K12NKXe-JBDJC0TxpPnu9xHf4b7YSMYnHefJlFjeep02y4mMmDq6-vJU), [English translation](https://docs.google.com/document/d/1UNdOOL6CY-oxrXctkP4dJj2Rz4TqdS0jcYcjzgDOOUA/edit?usp=sharing) 
 
-**inteface between "I" and "you": Where I End and You Begin"**
+**inteface between "I" and "you": Where I End and You Begin**
 \
 2023\
 _published on syg.ma_\
@@ -40,3 +40,27 @@ _published on knife.media_\
 [full text in Russian](https://knife.media/bureaucracy-language/)
 
 Following David Graeber, I suggest that bureaucratic language is essentially the language of violence, or a dead language. Then I discuss the artistic strategies aiming at liberating the imaginanation from the nonsense bureaucratic structures: Charles Reznikoff's poetic reappropriation of judical language, Kenneth Goldsmith's _uncreative writing_ and situationists' _détournement_. 
+
+**A guide to generative poetry**
+\
+2021\
+_published on knife.media_\
+[full text in Russian](https://knife.media/generative-poetry/)
+
+An extensive guide to generative poetry: from OULIPO's combinatorial expetiments with poetic language to Twitter bots writing haiku.  
+
+**what is poetic language, and how it relates to everyday speech**
+\
+2020\
+_published on knife.media_\
+[full text in Russian](https://knife.media/poetic-language/)
+
+A discussion of grammatical peculiarities of poetic language from a formal (Chomskian) linguistic perpescitve. 
+
+**what is poetic language, and how it relates to everyday speech**
+\
+2020\
+_published on knife.media_\
+[full text in Russian](https://knife.media/poetic-language/)
+
+A discussion of grammatical peculiarities of poetic language from a formal (Chomskian) linguistic perpescitve. It includes the analysis of 18th century English poetry and Sagas of Icelanders put forward by linguists Nigel Fabb and Wayne O'neil. 
