@@ -27,13 +27,13 @@ _published on knife.media_\
 
 A survey on libertariean and anarchist critiques of school education (Freiere, Illich, Rancière), as well as the existing anarchist alternatives to it (Ferrer's _Escuela Moderna_, _Escuela Libre Paideia_).
 
-**home delivery War, lake of fire, and one clothing for all. how contemporary artists conceptualize militarism**
+**home delivery war, lake of fire, and one clothing for all. how contemporary artists conceptualize militarism**
 \
 2022\
 _published on knife.media_\
 [full text in Russian](https://knife.media/art-and-war/)
 
-This text was written as an initial response to the Russian invasion of Ukraine. My goal was to discuss the existing artisting strategies to represent and, unltimately, dismantle and delegitimize war altogether --- from Thomas Hirschhorn and Krzysztof Wodiczko to Harun Farocki and Valid Raad. 
+This text was written as an initial response to the Russian invasion of Ukraine. My goal was to discuss the existing artistic strategies to represent and, unltimately, dismantle and delegitimize war altogether --- from Thomas Hirschhorn and Krzysztof Wodiczko to Harun Farocki and Valid Raad. 
 
 **what is bureaucratic language, and how to unlearn it**
 \
