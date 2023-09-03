@@ -6,7 +6,7 @@ title: writing
 **neural networks are dangerous, or how machines command us** 
 \
 2023\
-_piblished in KIT newsletter_\
+_published in KIT newsletter_\
 [full text in Russian](https://us5.campaign-archive.com/?u=4ea5740c1fe71d71fea4212ee&id=1a08ade0de&utm_source=public&utm_medium=sharing&utm_campaign=skynet&fbclid=IwAR3K12NKXe-JBDJC0TxpPnu9xHf4b7YSMYnHefJlFjeep02y4mMmDq6-vJU), [English translation](https://docs.google.com/document/d/1UNdOOL6CY-oxrXctkP4dJj2Rz4TqdS0jcYcjzgDOOUA/edit?usp=sharing) 
 
 I show that AI is far from being objective, but, rather, is biased in many particular ways. Algorithms only benefit vectorialist class, as McKenzie Wark would put it, but are dangerous to society; according to Dan McQuillan, they even contribute to the fascization of western world. After that, I discuss the activist strategies of resitance to AI, claiming that AI should be totally transparent to the people and that they should be able to change its logics at any level. 
