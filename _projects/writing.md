@@ -9,7 +9,7 @@ title: writing
 _piblished in KIT newsletter_\
 [full text in Russian](https://us5.campaign-archive.com/?u=4ea5740c1fe71d71fea4212ee&id=1a08ade0de&utm_source=public&utm_medium=sharing&utm_campaign=skynet&fbclid=IwAR3K12NKXe-JBDJC0TxpPnu9xHf4b7YSMYnHefJlFjeep02y4mMmDq6-vJU), [English translation](https://docs.google.com/document/d/1UNdOOL6CY-oxrXctkP4dJj2Rz4TqdS0jcYcjzgDOOUA/edit?usp=sharing) 
 
-**inteface between "I" and "you: Where I End and You Begin"**
+**inteface between "I" and "you": Where I End and You Begin"**
 \
 2023\
 _published on syg.ma_\
@@ -24,3 +24,12 @@ _published on knife.media_\
 [full text in Russian](https://knife.media/unschooling/?fbclid=IwAR0gAuGIYCS1VlvUqcSqXTNnb5HfahTbsJiRG-yggM6C6z0axQMwMIee2iM)
 
 A survey on libertariean and anarchist critiques of school education (Freiere, Illich, Rancière), as well as the existing anarchist alternatives to it (Ferrer's _Escuela Moderna_, _Escuela Libre Paideia_).
+
+**Home Delivery War, Lake of Fire, and One Clothing for All. how contemporary artists conceptualize militarism**
+\
+2022\
+_published on knife.media_\
+[full text in Russian](https://knife.media/art-and-war/)
+
+This text was written as an initial response to the Russian invasion of Ukraine. My goal was to discuss the existing artisting strategies to represent and, unltimately, dismantle and delegitimize war altogether --- from Thomas Hirschhorn and Krzysztof Wodiczko to Harun Farocki and Valid Raad. 
+
