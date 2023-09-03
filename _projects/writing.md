@@ -25,7 +25,7 @@ _published on knife.media_\
 
 A survey on libertariean and anarchist critiques of school education (Freiere, Illich, Rancière), as well as the existing anarchist alternatives to it (Ferrer's _Escuela Moderna_, _Escuela Libre Paideia_).
 
-**Home Delivery War, Lake of Fire, and One Clothing for All. how contemporary artists conceptualize militarism**
+**home delivery War, lake of fire, and one clothing for all. how contemporary artists conceptualize militarism**
 \
 2022\
 _published on knife.media_\
@@ -41,7 +41,7 @@ _published on knife.media_\
 
 Following David Graeber, I suggest that bureaucratic language is essentially the language of violence, or a dead language. Then I discuss the artistic strategies aiming at liberating the imaginanation from the nonsense bureaucratic structures: Charles Reznikoff's poetic reappropriation of judical language, Kenneth Goldsmith's _uncreative writing_ and situationists' _détournement_. 
 
-**A guide to generative poetry**
+**a guide to generative poetry**
 \
 2021\
 _published on knife.media_\
@@ -55,12 +55,12 @@ An extensive guide to generative poetry: from OULIPO's combinatorial expetiments
 _published on knife.media_\
 [full text in Russian](https://knife.media/poetic-language/)
 
-A discussion of grammatical peculiarities of poetic language from a formal (Chomskian) linguistic perpescitve. 
+A discussion of grammatical peculiarities of poetic language from a formal (Chomskian) linguistic perpescitve. It includes the analysis of 18th century English poetry and Sagas of Icelanders put forward by linguists Nigel Fabb and Wayne O'neil. 
 
-**what is poetic language, and how it relates to everyday speech**
+**chronicles of digital existence: in-game photography as a new art form**
 \
 2020\
 _published on knife.media_\
-[full text in Russian](https://knife.media/poetic-language/)
+(full text in Russian)[https://knife.media/game-photo/]
 
-A discussion of grammatical peculiarities of poetic language from a formal (Chomskian) linguistic perpescitve. It includes the analysis of 18th century English poetry and Sagas of Icelanders put forward by linguists Nigel Fabb and Wayne O'neil. 
+An attempt to conceptualize in-game photography as a medium that is onthologically independent from optical media. Drawing inspiration from Timothy Morton's writing on object oriented onthologies, I suggest that in-game photo is a representation of digital existence characteristic of software and computers altogether --- very much independent of human mode of existence.
