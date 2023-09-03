@@ -15,7 +15,7 @@ _piblished in KIT newsletter_\
 _published on syg.ma_\
 [full text in Russian](https://syg.ma/@ivannetk/intierfieis-miezhdu-ia-i-ty-where-i-end-and-you-begin)
 
-A series of short autofictional and theoretical texts around the interface as a concept and as a metaphor: skin as a body-to-body interface, vague body borders and the language of imperialist Russian classics as a an interface. 
+A series of short autofictional and theoretical texts around the interface as a concept and as a metaphor, inspired by Alexander Galloway's writings: skin as a body-to-body interface, vague body borders and the language of imperialist Russian classics as a an interface. 
 
 **how schools control our bodies, and why they shouldn't be**
 \
