@@ -13,7 +13,11 @@ _piblished in KIT newsletter_\
 \
 2023\
 _published on syg.ma_\
-[full tet in Russian](https://syg.ma/@ivannetk/intierfieis-miezhdu-ia-i-ty-where-i-end-and-you-begin)
+[full text in Russian](https://syg.ma/@ivannetk/intierfieis-miezhdu-ia-i-ty-where-i-end-and-you-begin)
+
+A series of short autofictional and theoretical texts around the interface as a concept and as a metaphor: skin as a body-to-body interface, vague body borders and the language of imperialist Russian classics as a an interface. 
+
+
 
 a lecutre at the digital humanities master's program at [ITMO](https://en.itmo.ru/) (in Russian)_\
 [slides](https://drive.google.com/file/d/1CF1sEkW7kZbLoKl1wuOADkX-q-mft-KT/view?usp=sharing)
