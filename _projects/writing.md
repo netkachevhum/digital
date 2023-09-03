@@ -11,7 +11,7 @@ _published in KIT newsletter_\
 
 I show that AI is far from being objective, but, rather, is biased in many particular ways. Algorithms only benefit vectorialist class, as McKenzie Wark would put it, but are dangerous to society; according to Dan McQuillan, they even contribute to the fascization of western world. After that, I discuss the activist strategies of resitance to AI, claiming that AI should be totally transparent to the people and that they should be able to change its logics at any level. 
 
-**inteface between "I" and "you": Where I End and You Begin**
+**inteface between "I" and "you": where I end and you begin**
 \
 2023\
 _published on syg.ma_\
