@@ -17,7 +17,7 @@ I show that AI is far from being objective, but is biased in many particular way
 _published on syg.ma_\
 [full text in Russian](https://syg.ma/@ivannetk/intierfieis-miezhdu-ia-i-ty-where-i-end-and-you-begin)
 
-A series of short autofictional and theoretical texts around the interface as a concept and as a metaphor, inspired by Alexander Galloway's writings: skin as a body-to-body interface, vague body borders and the language of imperialist Russian classics as a an interface. 
+A series of short autofictional and theoretical texts around the interface as a concept and as a metaphor, inspired by Alexander Galloway's writings: skin as a body-to-body interface, vague body borders and the language of imperialist Russian classics as a corrupt interface. 
 
 **how schools control our bodies, and why they shouldn't be**
 \
@@ -25,7 +25,7 @@ A series of short autofictional and theoretical texts around the interface as a 
 _published on knife.media_\
 [full text in Russian](https://knife.media/unschooling/?fbclid=IwAR0gAuGIYCS1VlvUqcSqXTNnb5HfahTbsJiRG-yggM6C6z0axQMwMIee2iM)
 
-A survey on libertariean and anarchist critiques of school education (Freiere, Illich, Rancière), as well as the existing anarchist alternatives to it (Ferrer's _Escuela Moderna_, _Escuela Libre Paideia_).
+A survey on libertarian and anarchist critiques of school education (Freiere, Illich, Rancière), as well as the existing anarchist alternatives to it (Ferrer's _Escuela Moderna_, _Escuela Libre Paideia_).
 
 **home delivery war, lake of fire, and one clothing for all. how contemporary artists conceptualize militarism**
 \
