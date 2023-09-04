@@ -12,7 +12,7 @@ In this series of workshops about digital literature, I explored the emancipatio
 
 Participants got to know the history of digital literature and the theory that highlights its critical potential. During the workshops they will learn to work with interactive literature, kinetic poetry, and poetry that is automatically transformed into sound. 
 
-<details><summary>**1/3: cybertext, or the emancipation of classical Russian literature**</summary>
+<details><summary><b>1/3: cybertext, or the emancipation of classical Russian literature</b></summary>
 During the lecture part of the workshop, I talked about hypertext literature and its connection to feminist literature. The presence of links removes the author’s control over the process of reading. The way readers read the text depends on them. Readers have equal rights to writers and there are no “correct” or “incorrect” trajectories of reading. Interactive literature is an ideal place to hear the voices of subalterns who have previously been silenced by mainstream literary traditions.
 
 During the practical part of the workshop, participants learned to use one of the tools for working with hypertext, the online editor Twine. They used it to deconstruct a number of texts from classical Russian literature, which, according to the philosopher Valery Podoroga, embodies the Russian imperial myth in its form. My goal was to demonstrate that hypertext can sabotage established procedures for reading and writing, destroying the linearity of reading and the illusion of the passive presence of the reader in realistic prose.</details>
