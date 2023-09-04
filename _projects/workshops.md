@@ -11,7 +11,7 @@ _a workshop on generative poetry at [Garage Digital](https://garage.digital/en/a
 
 In this workshop about generative poetry, I look at the role of violence in the language of bureaucracy. In the lecture part, I discuss generative poetry in the history of art and literature (see the slides). Then I suggest that participants work with a poetic text using the code of simple poetic algorithms in Python (see the Google Colab notebook).
 
-**the interface: some critical strategies** 
+**interface: some critical strategies** 
 \
 2023\
 _a lecutre at the digital humanities master's program at [ITMO](https://en.itmo.ru/) (in Russian)_\
