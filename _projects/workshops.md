@@ -30,6 +30,7 @@ The lecture part of the workshop covers contemporary research into sound as the 
 <br>
 During the practical part of the workshop, participants learned to synthesize sound with the help of the p5.js environment by using patterns found in the text. A program was created created to transform the syntactic structure of the text into an original score for an audio play and then perform it. The meaning of words is lost, but the structure of the text can still be felt by the body. This process (making meaningless and simultaneously bodily) metaphorically highlights ideologies concealed in classical Russian literature. They can be hidden in the very form and regime of writing.</details>
 
+
 **interface: some critical strategies** 
 \
 2023\
