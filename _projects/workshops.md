@@ -15,7 +15,7 @@ Participants got to know the history of digital literature and the theory that h
 <details><summary>1/3: <b>cybertext, or the emancipation of classical Russian literature</b></summary>
 <a href="https://drive.google.com/file/d/1DFaN_sg91MZXUJe-uKdtQg3FacYgwgWV/view?usp=sharing">slides</a><br>
 During the lecture part of the workshop, I talked about hypertext literature and its connection to feminist literature. The presence of links removes the author’s control over the process of reading. The way readers read the text depends on them. Readers have equal rights to writers and there are no “correct” or “incorrect” trajectories of reading. Interactive literature is an ideal place to hear the voices of subalterns who have previously been silenced by mainstream literary traditions.
-<br/>
+
 During the practical part of the workshop, participants learned to use one of the tools for working with hypertext, the online editor Twine. They used it to deconstruct a number of texts from classical Russian literature, which, according to the philosopher Valery Podoroga, embodies the Russian imperial myth in its form. My goal was to demonstrate that hypertext can sabotage established procedures for reading and writing, destroying the linearity of reading and the illusion of the passive presence of the reader in realistic prose.</details>
 
 <details><summary>2/3: <b>poetry in motion: living through time</b></summary>
@@ -30,6 +30,7 @@ The lecture part of the workshop covers contemporary research into sound as the 
 <br/>
 During the practical part of the workshop, participants learned to synthesize sound with the help of the p5.js environment by using patterns found in the text. A program was created created to transform the syntactic structure of the text into an original score for an audio play and then perform it. The meaning of words is lost, but the structure of the text can still be felt by the body. This process (making meaningless and simultaneously bodily) metaphorically highlights ideologies concealed in classical Russian literature. They can be hidden in the very form and regime of writing.</details>
 
+  
 
 **interface: some critical strategies** 
 \
