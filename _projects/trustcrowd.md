@@ -8,6 +8,7 @@ title: trustcrowd
 2023\
 _data-based procedural essay_\
 _part of the [ununsubscribe](continue_the_phrase.md) pavilion at [TheWrongBiennale 2023](https://thewrong.org/)_
+available at [itch.io](https://netkachev.itch.io/trustcrowd)
 
 In this non-game, you act as a crowdsource worker verifying whether a given Reddit comment is written by a pro-Russian bot or by a real person. The comments are retrieved semi-realtime and constantly updated. This is a work simulator, and the work will never come to an end.
 
