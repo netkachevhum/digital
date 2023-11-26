@@ -7,7 +7,7 @@ title: trustcrowd
 
 2023\
 _data-based procedural essay_\
-_part of the [ununsubscribe](continue_the_phrase.md) pavilion at [TheWrongBiennale 2023](https://thewrong.org/)_
+_part of the [ununsubscribe](continue_the_phrase.md) pavilion at [TheWrongBiennale 2023](https://thewrong.org/)_\
 available at [itch.io](https://netkachev.itch.io/trustcrowd)
 
 In this non-game, you act as a crowdsource worker verifying whether a given Reddit comment is written by a pro-Russian bot or by a real person. The comments are retrieved semi-realtime and constantly updated. This is a work simulator, and the work will never come to an end.
@@ -24,3 +24,4 @@ One way to fight the spreading of fakes and propaganda is to train an AI model t
 
 In this (non-)game, players become such a worker. They confront real comments from the [r/AskARussian](https://www.reddit.com/r/AskARussian/) subreddit, a thriving ground for actual bots and paid trolls. As responsible as this task may seem, it’s also monotonous. The work never comes to its end: to remind you that, according to Irani, crowdsourcers do not even earn the minimum wage in their countries. That’s how the truth is actually produced today: even truth machines have hidden human faces.
 
+![logo-1](logo_scaled_bw_trans.png)
