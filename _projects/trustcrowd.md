@@ -14,7 +14,7 @@ In this non-game, you act as a crowdsource worker verifying whether a given Redd
 
 Inside the AI-powered truth machines, human faces are hidden. Truth does not exist on its own: it is produced by the algorithms of digital media; but no algorithm is possible without the underpaid and monotonous labour of crowdsource workers.
 
-![scr-1](TrustCrowd_scr_4.png)
+![scr-1](trustcrowd_scr_16x9.png)
 
 ***
 
