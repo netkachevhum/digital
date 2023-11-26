@@ -14,6 +14,8 @@ In this non-game, you act as a crowdsource worker verifying whether a given Redd
 
 Inside the AI-powered truth machines, human faces are hidden. Truth does not exist on its own: it is produced by the algorithms of digital media; but no algorithm is possible without the underpaid and monotonous labour of crowdsource workers.
 
+![scr-1]("TrustCrowd_scr_4.png")
+
 ***
 
 Today’s web is imbued with disinformation and fakes spread by governments. Russian state is sponsoring the organizations — such as _[Internet Research Agency](https://edition.cnn.com/2023/02/14/europe/russia-yevgeny-prigozhin-internet-research-agency-intl/index.html)_ — whose only goal is to confuse the internet-users, both in Russia and outside it. When faced with a pro-Russian comment on Reddit, one can never be sure whether it is written by a real person or a bot, or perhaps by a professional troll. 
