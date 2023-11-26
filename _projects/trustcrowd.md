@@ -3,11 +3,11 @@ layout: default
 title: trustcrowd
 ---
 
-**{{ page.title }}: uncovering the truth machine**\
+**{{ page.title }}: uncovering the truth machine**
 
 2023\
 _data-based procedural essay_\
-_part of the [ununsubscribe](continue_the_phrase.md) pavilion at [TheWrongBiennale 2023](https://thewrong.org/)_\
+_part of the [ununsubscribe](continue_the_phrase.md) pavilion at [TheWrongBiennale 2023](https://thewrong.org/)_
 
 In this non-game, you act as a crowdsource worker verifying whether a given Reddit comment is written by a pro-Russian bot or by a real person. The comments are retrieved semi-realtime and constantly updated. This is a work simulator, and the work will never come to an end.
 
