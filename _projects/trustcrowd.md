@@ -22,4 +22,4 @@ One way to fight the spreading of fakes and propaganda is to train an AI model t
 
 In this (non-)game, players become such a worker. They confront real comments from the [r/AskARussian](https://www.reddit.com/r/AskARussian/) subreddit, a thriving ground for actual bots and paid trolls. As responsible as this task may seem, it’s also monotonous. The work never comes to its end: to remind you that, according to Irani, crowdsourcers do not even earn the minimum wage in their countries. That’s how the truth is actually produced today: even truth machines have hidden human faces.
 
-![logo-1](logo_bw_smal_scaled_v3.png)
+![logo-1](logo_bw_smal_scaled_v4.png)
