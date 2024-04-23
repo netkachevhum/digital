@@ -5,10 +5,10 @@ title: writing
 
 **interinterface: why affective interfaces are spatial machinery how they normalize and discipline queer identities**
 \
-2024, with Roman Solodkov\
+2024\
 _published by the Institute of Network Cultures_\
 [full text](https://networkcultures.org/blog/2024/02/08/interinterface/)\
-A short essay on how dating apps constrain and discipline the identities of their users. We conceptualize the interfaces of dating apps as a spatial machinery manipulating users' flows of time, and, thus, homogenizing their subjectivities. 
+A short essay (co-authored with Roman Solodkov) on how dating apps constrain and discipline the identities of their users. We conceptualize the interfaces of dating apps as a spatial machinery manipulating users' flows of time, and, thus, homogenizing their subjectivities. 
 
 **neural networks are dangerous, or how machines command us** 
 \
