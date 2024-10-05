@@ -7,5 +7,3 @@ Ivan Netkachev (b. 1998, Orenburg) is a multimedia artist, publicist, and writer
 He attempts at discovering the hidden politics behind the omnipresent algorithms which structure our society, i.e. the traumas and violence induced by the artificial intelligence. On the other hand, he investigates the emancipatory potential of AI: perhaps one can find the machine's weaknesses, and use it against itself.
 
 Currently based in Tbilisi, Georgia. 
-
-_Russian troops should be withdrawn from Ukraine._
